@@ -54,10 +54,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "CLIENTE10",
-        "key": "CLIENTE10",
+        "device_id": "5d6e37cc3ceb3dfd",
+        "key": "5d6e37cc3ceb3dfd",
         "expirydate": "10-06-2035",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "CLIENTE11",
